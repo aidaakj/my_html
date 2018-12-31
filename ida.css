@@ -1,21 +1,22 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-div {
-  background-color: #b3c2d8;
-  color: #ab2c51;
+.center{
+  text-align: center;
+}
+
+input{
+  margin-bottom: 1%;
 }
 
 
-.sep{
-  background-color: #b3a14b;
-}
-
-
-#ida{
-  background-color: #b2fe98;
-}
-
-
-button{
-  width: 10%;
-  height: 10%;
+.submit{
+  margin-right: 6%;
+  background-color: #16a092;
+  border-radius: 30%;
+  height: 30px;
+  width:3%
 }
